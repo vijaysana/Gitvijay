@@ -12,6 +12,8 @@ public class testffbrowser {
 		driver.get("http://complianceonline.com");
 		
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
 
 	}
 
