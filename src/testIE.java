@@ -12,6 +12,9 @@ public class testIE {
 		driver.get("http://www.google.com");
 		
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
 		
 
 	}
